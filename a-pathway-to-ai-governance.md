@@ -90,7 +90,7 @@ The recommendations in this document are equally applicable to purpose-specific 
 
 The development of AI systems has inputs such as data, computation, models, and applications as different stages or components in the supply chain. This applies to purpose-specific machine learning systems and general-purpose AI systems. These components can be visualised as layers, with data and computation contributing to the model, which, in turn, supports the applications.
 
-![[AI Supply Chain.png]]
+![AI Supply Chain](https://github.com/TakshashilaInst/a-pathway-to-ai-governance/assets/111138759/53979007-f916-4b2a-8004-c36274d66fac)
 
 _Figure 1: The components of the AI supply chain_
 
@@ -345,7 +345,7 @@ The release practices of ‘open’ AI systems differ significantly from those o
 
 Irene Solaiman’s paper[^67] introduces a framework for grading the openness of generative AI systems. Generative AI systems are a sub-type of general-purpose AI models that generate content based on user inputs, often across different modalities such as text, images or video. The framework classifies them into six gradients of access: fully closed, gradual or staged access, hosted access, cloud-based or API access, downloadable access, and fully open. This classification helps to understand the extent to which these systems are accessible to users and developers.
 
-![[Gradients of Openness.png]]
+<img width="800" alt="Gradients of Openness" src="https://github.com/TakshashilaInst/a-pathway-to-ai-governance/assets/111138759/9f936c47-1f5e-4d69-9113-b358a0a1a044">
 
 _Figure 2: Source: The Gradient of Generative AI Release, Solaiman, 2023_
 
@@ -413,7 +413,7 @@ Governments worldwide are now deeply invested in high technology. It's not just 
 
 The paper also introduces a framework to understand how nations might use political and economic tools to achieve strategic goals in high-tech sectors.
 
-![[High Tech Geopolitics.png]]
+<img width="800" alt="High Tech Geopolitics" src="https://github.com/TakshashilaInst/a-pathway-to-ai-governance/assets/111138759/5c15410d-c221-40a6-bfc7-0ae3a50813a3">
 
 _Figure 3: A framework for High-technology Geopolitics. Source_: The Takshashila Institution[^78].
 ### An Overview of The AI Chips Market
@@ -426,7 +426,7 @@ Compute resources are required at two stages of the layer-based model we propose
 
 The number of parameters of a particular model determines the extent of the compute resource required for pre-training and inference [^82]. Compute costs and power requirements increase exponentially as the size of models grows[^83].
 
-![[UK CMA Data Time Hardware.png]]
+<img width="800" alt="UK CMA Data Time Hardware" src="https://github.com/TakshashilaInst/a-pathway-to-ai-governance/assets/111138759/e596f33c-df69-4a5c-ab8d-1cbe9164d35e">
 
 _Figure 4: Source: UK CMA AI Foundation Models: Initial Report[^84]_
 
